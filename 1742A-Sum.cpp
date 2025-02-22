@@ -12,7 +12,7 @@ int main(){
         
         sort(a, a+3);
         
-        if (a[0] +a [1] == a[2]) cout << "YES" << endl;
+        if (a[0] + a[1] == a[2]) cout << "YES" << endl;
         else cout << "NO" << endl; 
     }
     return 0;
